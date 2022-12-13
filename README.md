@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luismaiasombra
-- 👀 I’m interested in programming languages like C#, SQL, HTML, CSS and JavaScript.
+- 👀 I’m currently studying web development.
 - 🌱 I’m currently undergoing a bachelors degree on Sotftware Engineering at Federal University of Ceará.
 - 📫 You can reach me at luismaiasombra.ufc@gmail.com
 
